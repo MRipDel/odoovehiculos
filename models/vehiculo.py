@@ -1,6 +1,5 @@
 # odoovehiculos/models/vehiculo.py
-
-from odoo import models, fields
+from odoo import models, fields 
 
 class vehiculo(models.Model):
     _name = 'vehiculo.management'
