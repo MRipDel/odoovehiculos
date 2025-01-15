@@ -1,4 +1,5 @@
 # odoovehiculos/models/vehiculo.py
+
 from odoo import models, fields 
 
 class vehiculo(models.Model):
